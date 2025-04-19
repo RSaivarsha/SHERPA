@@ -55,3 +55,7 @@ In future iterations, SHERPA will integrate AI models to learn deeper behavioral
 
 Our vision is to eliminate the friction of daily digital routines and let people focus on what actually matters.
 
+## Demo Video
+
+Watch our SHERPA demo on YouTube:  
+[https://youtu.be/1CiiXqxr8PA](https://youtu.be/1CiiXqxr8PA)
