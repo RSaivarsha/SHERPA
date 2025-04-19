@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Sherpa Demo",
+    "version": "0.0.1",
+    "omnibox": { "keyword": "sp" },
+    "permissions": ["activeTab", "scripting"],
+    "host_permissions": ["<all_urls>"],
+    "background": { "service_worker": "service_worker.js" },
+    "content_scripts": [{
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }]
+  }
+  
